@@ -1,5 +1,7 @@
 # cloud-first
 
+Галяутдинов Ризат 11-902
+
 Версия java - 19 
 
 Строка запуска программы - " alias cloudphoto="java -jar /tmp/cloudphoto/cloudphoto-v1.0.jar" "
